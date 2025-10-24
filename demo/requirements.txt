@@ -2,4 +2,5 @@ streamlit
 joblib
 pandas
 datetime
-sklearn
+
+scikit-learn
